@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/cui2000/hugoblog.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
